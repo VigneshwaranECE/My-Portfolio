@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://sanajitjana.github.io" target="_blank">  
+  <a href="ttps://vigneshwaran-portfolio.vercel.app/" target="_blank">  
     <img alt="Logo" src="https://sanajitjana.github.io/packages/images/logo.webp" width="50" />
   </a>
 </div>
